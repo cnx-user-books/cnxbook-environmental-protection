@@ -1,3 +1,27 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11262</md:content-id>  <md:title>Environmental Protection</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>da6d824f-e3d2-40af-abd5-e8d44df00e13</md:uuid>
-<md:slug>environmental-protection</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>a general knowledge course</md:title>                                <col:content>                    <col:module document="m18753"/>                            <col:module document="m20260"/>                            <col:module document="m22345">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="http://www.answersingenesis.org/tj/v15/i1/ecology.asp">the root of ecological crisis</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course" authors="yang chuya">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11262</md:content-id>
+    <md:title>Environmental Protection</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>da6d824f-e3d2-40af-abd5-e8d44df00e13</md:uuid>
+    <md:slug>environmental-protection</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>a general knowledge course</md:title>
+      <col:content>
+        <col:module document="m18753"/>
+        <col:module document="m20260"/>
+        <col:module document="m22345">
+          <col:featured-links>
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://www.answersingenesis.org/tj/v15/i1/ecology.asp">the root of ecological crisis</cnxml:link>
+            </cnxml:link-group>
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
